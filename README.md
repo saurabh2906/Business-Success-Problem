@@ -1,0 +1,2 @@
+# Business-Success-Problem
+Bangladesh is progressively improving on economy as compared to India. They are very high in terms of INDUSTRIALISATON. They are working much ahead of us in terms of STARTUPS. So they want to find which start-ups are likely to be successful, and which are not. How they can be groomed further ? Which Start-up will have a higher degree of success ? So they want Proof of Concept, which is given in collected form of this data by a consulting company. Now we have to analyse how this data can help.
